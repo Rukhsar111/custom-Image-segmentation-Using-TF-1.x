@@ -1,6 +1,6 @@
-# custom-Image-segmentation-Using-TF-1.x
+# custom-Image-segmentation-Using-TF1.x
 
-This section of the topic helps you to do the Image Segmentation using Tensorflow-1.x . 
+**This section of the topic helps you to do the Image Segmentation using Tensorflow-1.x**
 
 1 ) This particular Github repository is made and customized from the original tensorflow website : https://github.com/tensorflow/models/tree/v1.13.0
 
